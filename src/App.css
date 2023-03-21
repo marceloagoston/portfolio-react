@@ -26,7 +26,7 @@ a:active {
 }
 body {
   background: #0e1516;
-  color: #aaa;
+  color: #3cc834;
   font-size: 1.25rem;
 }
 
@@ -125,7 +125,7 @@ li {
 }
 .home font,
 .project font {
-  color: rgb(222, 176, 76);
+  color: #3cc834;
 }
 .projects,
 .services,
