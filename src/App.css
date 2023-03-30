@@ -254,3 +254,8 @@ li {
 .navbar-toggler {
   background-color: #ffffff;
 }
+
+.card:hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+}
