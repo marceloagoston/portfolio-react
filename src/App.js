@@ -11,6 +11,7 @@ import Header from './components/Header';
 
 
 function App() {
+
   return (
     <Container>
       {/* Enrutamiento en react con ROUTER */}
@@ -22,7 +23,7 @@ function App() {
           <Route path="/projects" element={<Projects />}></Route>
           <Route path="/services" element={<Services />}></Route>
           <Route path="/about" element={<About />}></Route>
-          <Route path="/contacts" element={<Contact />}></Route>
+          <Route path="/contact" element={<Contact />}></Route>
         </Routes>
       </Router>
     </Container>
