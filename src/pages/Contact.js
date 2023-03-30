@@ -2,9 +2,6 @@ import React from "react";
 
 import { Button, Form, Row, Col, ListGroup, ListGroupItem } from "react-bootstrap";
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faBell, faWorm, faCocktail } from '@fortawesome/free-solid-svg-icons'
-
 const Contact = () => {
 
     const handleSubmit = () =>{
